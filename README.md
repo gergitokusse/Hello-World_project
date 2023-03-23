@@ -95,8 +95,6 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-
 - Acknowledge the microverse
 - .gitignor file used to ignor file from pushing to repo
 
